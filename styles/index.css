@@ -1,0 +1,26 @@
+main > .container {
+  padding: 60px 15px 0;
+  margin-bottom: 5rem;
+}
+
+main > .container img {
+  width: 100%;
+}
+
+.sticky-footer {
+  position: -webkit-sticky;
+  position: sticky;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.sticky-footer .attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.sticky-footer .attribution a {
+  color: #3e52a3;
+}
+/*# sourceMappingURL=index.css.map */

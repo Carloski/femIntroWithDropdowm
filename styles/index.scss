@@ -1,0 +1,22 @@
+main > .container {
+  padding: 60px 15px 0;
+  margin-bottom: 5rem;
+
+  img {
+    width: 100%;
+  }
+}
+.sticky-footer {
+  position: sticky;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+
+  .attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+}
